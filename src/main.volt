@@ -4,6 +4,6 @@ import watt.io;
 
 fn main() i32
 {
-	output.writefln("Hello world!");
+	output.writefln("Take over the world!");
 	return 0;
 }
